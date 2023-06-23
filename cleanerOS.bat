@@ -2,6 +2,6 @@
 
 cd C:\Users\YourUser\Documents\CleanerOS
 
-python cleanOS.py
+python cleanerOS.py
 
 pause
